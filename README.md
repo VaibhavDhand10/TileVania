@@ -14,7 +14,7 @@ Tile Vania is a retro-inspired 2D side-scrolling platformer built in Unity. This
 ## 🖼️ Gameplay Showcase
 
 View gameplay and more on my portfolio:  
-🔗 [Link to Tile Vania Portfolio Page](#) *(https://www.vaibhavdhand.me/projects-1/tilevania)*
+🔗 [Link to Tile Vania Portfolio Page](https://www.vaibhavdhand.me/projects-1/tilevania)
 
 ## 🛠️ Tech Stack
 
